@@ -1,2 +1,2 @@
 # Covidproject
-Exploring data of Covid-19 for later visualizations 
+Exploring data of Covid-19 using SQL  for later visualizations 
